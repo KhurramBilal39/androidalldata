@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="hackers">Hackers</string>
+    <string name="title_activity_first">FirstActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_hacker_first">HackerFirstActivity</string>
+    <string name="title_activity_khurram_app">khurramApp</string>
+    <string name="title_activity_hmain">hmain</string>
+
+</resources>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    >
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/d"
+            android:title="@string/dawn"
+            android:menuCategory="secondary"/>
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/seee"
+            android:title="@string/sky_news"
+            android:menuCategory="secondary"/>
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@drawable/a"
+            android:title="@string/aljezera"
+            android:menuCategory="secondary"/>
+        <item
+            android:id="@+id/cnn"
+            android:icon="@drawable/cop"
+            android:title="@string/cnn"
+            android:menuCategory="secondary"/>
+        <item
+            android:id="@+id/bbc"
+            android:icon="@drawable/b"
+            android:title="@string/bbc"
+            android:menuCategory="secondary"    />
+
+    </group>
+</menu>

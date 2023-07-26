@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.example.news_paper.ui.home.HomeFragment"
+        android:label="@string/dawn"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_gallery"
+        android:name="com.example.news_paper.ui.gallery.GalleryFragment"
+        android:label="@string/sky_news"
+        tools:layout="@layout/fragment_gallery" />
+
+    <fragment
+        android:id="@+id/nav_slideshow"
+        android:name="com.example.news_paper.ui.slideshow.SlideshowFragment"
+        android:label="@string/aljezera"
+        tools:layout="@layout/fragment_slideshow" />
+    <fragment
+        android:id="@+id/bbc"
+        android:name="com.example.news_paper.Fragments.BBCFragment"
+        android:label="@string/bbc"
+        tools:layout="@layout/fragment_b_b_c" />
+    <fragment
+        android:id="@+id/cnn"
+        android:name="com.example.news_paper.Fragments.CNNFragment"
+        android:label="@string/cnn"
+        tools:layout="@layout/fragment_c_n_n" />
+</navigation>

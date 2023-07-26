@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/folder"
+        android:title="Menu"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/baseline_create_new_folder_24"
+        />
+    <item
+        android:id="@+id/contact"
+        android:title="Contact"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/baseline_contact_phone_24"
+        />
+    <item
+        android:id="@+id/setting"
+        android:title="Setting"
+        app:showAsAction="collapseActionView"
+        android:icon="@drawable/baseline_settings_24"
+        />
+
+
+</menu>

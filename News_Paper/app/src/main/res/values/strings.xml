@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">News_Paper</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="dawn">DAWN</string>
+    <string name="sky_news">SKY NEWS</string>
+    <string name="aljezera">ALJEZERA</string>
+    <string name="cnn">CNN</string>
+    <string name="bbc">BBC</string>
+    <string name="comming_soon">COMMING SOON</string>
+    <string name="new_yorks_news">NEW YORKS NEWS</string>
+    <string name="next_event">NEXT EVENT</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="cnn_fragment">CNN Fragment</string>
+    <string name="bbc_fragment">BBC Fragment</string>
+</resources>
